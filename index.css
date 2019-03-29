@@ -1,0 +1,92 @@
+body {
+    font-family: cursive;
+    background: url(images/front.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    color: white;
+    background: black;
+    width: 100%;
+    text-align: center;
+    font-size: 1.2em;
+    opacity: 0.7;
+    padding-top: 10px;
+    left: 0px;
+}
+
+.effect, #login {
+    font-size: 1.5em;
+}
+
+.effect:hover {
+    background-color: moccasin;
+    font-weight: bold;
+}
+
+#login:hover {
+    background-color: skyblue;
+    font-weight: bold;
+}
+
+.container {
+    background-color: transparent;
+    text-align: center;
+    color: black;
+    letter-spacing: 1.5px;
+    margin-top: 60px;
+    padding: 20px;
+}
+
+.green {
+    background-color: rgba(114,190,35,0.8);
+}
+
+.signup {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#top {
+    font-size: 3em;
+}
+
+.carousel-indicators li { 
+    visibility: hidden; 
+}
+
+#manage {
+    border-radius: 20px;
+    height: 490px;
+    margin-bottom: 50px;
+}
+
+.about_us {
+    padding-left: 40px;
+}
+
+
+
+.row {
+    padding-bottom: 80px;
+    padding-top: 10px;
+    color: #00ffbf;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.radio {
+    padding-left: 80px;
+    font-size: 1.05em;
+}
+
+#male {
+    bottom: 10px;
+}
+
+#send {
+    align-content: center;
+}

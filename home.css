@@ -1,0 +1,16 @@
+.profile {
+    color: black;
+}
+
+#pic {
+    border-radius: 50%;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+.preview {
+    border-radius: 50%;
+    height: 180px;
+    width: 170px;
+    align-items: center;
+}
